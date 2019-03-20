@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "person.h"
-//#include "person.cpp"
+//#include "person.h"
+#include "person.cpp"
 
 int readData (Person array[])
 {
